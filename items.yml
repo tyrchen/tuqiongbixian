@@ -1,0 +1,29 @@
+- title: First Podcast
+  link: podcast01.mp3
+  image: podcast02.jpg
+  description: Hello world
+  pub_date: 2015/07/03 20:00
+
+- title: Second Podcast asdf asdf dafdsa fdsa
+  link: podcast02.mp3
+  image: podcast02.jpg
+  description: Hello world again
+  pub_date: 2015/07/10 20:00
+
+- title: Third Podcast
+  link: podcast03.mp3
+  image: podcast02.jpg
+  description: Hello world again
+  pub_date: 2015/08/10 20:00
+
+- title: Forth Podcast
+  link: podcast04.mp3
+  image: podcast02.jpg
+  description: Hello world again
+  pub_date: 2015/09/10 20:00
+
+- title: Fifth Podcast
+  link: podcast06.mp3
+  image: podcast02.jpg
+  description: Hello world again
+  pub_date: 2015/10/10 20:00
