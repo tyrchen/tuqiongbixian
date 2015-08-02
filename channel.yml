@@ -1,12 +1,17 @@
-title: awesome podcast
-link: http://podcast.example.com/
+title: 程序人生之图穷匕见
+link: http://podcast.tchen.com/
 description: >
-  aweseme description
+  程序人生公众号里的语音信息，被收录在这里，欢迎收听！这个podcast会跟你聊Ted Radio Hour，
+  github，hackernews，youtube等过去一周热门的内容。除此之外，偶尔还会插播程序君一些所见，
+  所闻，所感哦。
 image: cover.jpg
-copyright: Copyright 2015 Somebody - For Personal Use Only
-language: en
-author: Somebody
+copyright: Copyright 2015 Tyr Chen - For Personal Use Only
+language: zh-CN
+author: Tyr Chen
 categories:
-  - Internet
-  - Software
-page: 2
+  - 互联网
+  - 软件开发
+page: 20
+twitter: https://twitter.com/tyrchen
+github: https://github.com/tyrchen
+linkedin: https://linkedin.com/in/tyrchen
