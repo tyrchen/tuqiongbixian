@@ -4,7 +4,7 @@
   description: >
     受小道君的启发，今天来点不一样的，用语音介绍我过去一周听的podcast，
     玩过的github repo和读过的hacker news...
-  pub_date: Thu, 16 Jul 2015 20:33:36 -0700
+  pubdate: 2015-07-16T20:00:41-07:00
 
 - title: 面试三哥的逗比故事
   link: 02-sange.mp3
@@ -13,7 +13,7 @@
     这三哥的简历一出，立刻亮瞎我的狗眼。一票高大上能力，一堆高大上项目，
     从底层的C/C++到数据处理的R，啥都用过。关键他最近五年还在两家startup（talksum，ETFscale）
     工作过，这样的人愿意来我们团队，简直要像曹阿瞒一样衣衫不整就出门迎接...
-  pub_date: Tue, 21 Jul 2015 20:33:36 -0700
+  pubdate: 2015-07-21T20:00:41-07:00
 
 - title: infinite，猝死，切诺基被黑，以及postgrest
   link: 03-postgrest.mp3
@@ -27,7 +27,7 @@
     进化以抵御抗生素的威胁，一些本被攻克的疾病死灰复燃，越发强大。所以在
     "How Did A Medical Miracle Turn Into A Global Threat?" 里，Ramanan提出：
     抗生素这种资源，但他们的可利用价值，和地下的石油一样，都是有限的，不断减少的...
-  pub_date: Thu, 24 Jul 2015 20:33:36 -0700
+  pubdate: 2015-07-24T20:00:41-07:00
 
 - title: Memory，ESPP及awesome-selfhosted
   link: 04-awesome-selfhosted.mp3
@@ -37,4 +37,4 @@
     是不是要江郎才尽了？还是在酝酿什么大的动作？希望是后者。我也只好翻了翻之前听过的内容，
     04年底一期 Memory Games，感动了我。这个主题是谈论记忆的，其中一个观点是：你的记忆
     无论多么鲜活生动，多令自己确信无疑，它都不一定可信，因为记忆是recontructed memory...
-  pub_date: Thu, 30 Jul 2015 20:33:36 -0700
+  pubdate: 2015-07-30T20:00:41-07:00
