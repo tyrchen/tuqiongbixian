@@ -8,4 +8,3 @@ Favicon is from [freefavicon](http://www.freefavicon.com/freefavicons/objects/ic
 
 Derived work 
 
-
