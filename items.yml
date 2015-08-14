@@ -56,3 +56,13 @@
     设计出来满足这样的任务的需求的。
   pubdate: 2015-08-06T20:00:41-07:00
   guid: 09d473f3-8751-436f-8b55-5b64387b37b2
+
+- title: Fighting cancer, Rust 1.2 及 JAWS
+  link: 06-cancer.mp3
+  image: 06-cancer.jpg
+  description: >
+    两周前的TED radio hour，有一期非常精彩的内容：Fighting cancer。Jorge，一个癌症专家，
+    小时候由他的姨妈一手带大，对姨妈的感情非常深。等他自己成长为一个科学家后，他姨妈突然
+    被检测出来肺癌...
+  pubdate: 2015-08-13T17:22:20-07:00
+  guid: 5557deee-7f00-4b27-a57b-9665a8fb2da1
